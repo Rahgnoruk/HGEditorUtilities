@@ -10,7 +10,7 @@
     "licensesUrl": "https://github.com/Rahgnoruk/HGEditorUtilities",
     "keywords": [
       "HyperGnosys",
-      "HGEditor Utilities"
+      "Editor Utilities"
     ],
     "author": {
       "name": "Sergio Raimond",
@@ -18,8 +18,5 @@
       "url": "https://www.hypergnosys.com"
     },
     "dependencies": {
-    },
-    "gitDependencies": {
-        "com.hypergnosys.core": "https://github.com/Rahgnoruk/HGCodeBaseCore"
-      }
+    }
   }
