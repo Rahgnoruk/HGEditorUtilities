@@ -1,0 +1,25 @@
+{
+    "name": "com.hypergnosys.editor-utilities",
+    "version": "1.0.0",
+    "displayName": "HGEditorUtilities",
+    "description": "Utilities that automate processes in the Editor",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGEditorUtilities",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGEditorUtilities",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGEditorUtilities",
+    "keywords": [
+      "HyperGnosys",
+      "HGEditor Utilities"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    },
+    "gitDependencies": {
+        "com.hypergnosys.core": "https://github.com/Rahgnoruk/HGCodeBaseCore"
+      }
+  }
